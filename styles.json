@@ -8,6 +8,6 @@
       "email": "davidmeirlevy@gmail.com",
       "website": "https://www.davidlevy.co.il"
     },
-    "cssFiles": ["https://gp-demo-css.netlify.app/style.css"]
+    "cssFiles": ["https://gp-demo-css.netlify.app/reset.css", "https://gp-demo-css.netlify.app/style.css"]
   }
 ]
