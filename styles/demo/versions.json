@@ -1,0 +1,6 @@
+[
+  {
+    "version": "latest",
+    "cssFiles": ["https://gp-demo-css.netlify.app/reset.css", "https://gp-demo-css.netlify.app/style.css"]
+  }
+]
