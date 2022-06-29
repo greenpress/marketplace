@@ -2,7 +2,7 @@
   {
     "name": "demo",
     "description": "a demo css for tests",
-    "thumbnails": ["thumbnail.pmg"],
+    "thumbnails": ["thumbnail.png"],
     "creator": {
       "name": "David Meir-Levy",
       "email": "davidmeirlevy@gmail.com",
